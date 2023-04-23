@@ -1,0 +1,22 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Quality Improvement With Data"
+  author: "Jacob Anhøj"
+  date: "`r Sys.Date()`"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+
+
+
