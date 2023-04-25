@@ -11,9 +11,19 @@ book:
   chapters:
     - index.qmd
     - 01_intro.qmd
-    - 11_chapter1.qmd
-    - 21_chapter2.qmd
-    - 91_summary.qmd
+    - 02_data.qmd
+    - 03_collection.qmd
+    - 04_storage.qmd
+    - 05_management.qmd
+    - 06_analysis.qmd
+    - 07_visualisation.qmd
+    - 08_spc_intro.qmd
+    - 09_spc_controlchart.qmd
+    - 10_spc_tests.qmd
+    - 11_spc_runchart.qmd
+    - 12_spc_cases.qmd
+    - 20_afterthoughts.qmd
+    - 91_spc_limits.qmd
     - 99_references.qmd
 
 bibliography: references.bib

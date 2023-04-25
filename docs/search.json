@@ -4,6 +4,20 @@
     "href": "index.html",
     "title": "Quality Improvement With Data",
     "section": "",
-    "text": "Preface\nThis is a Quarto book."
+    "text": "Preface"
+  },
+  {
+    "objectID": "01_intro.html",
+    "href": "01_intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "testing"
+  },
+  {
+    "objectID": "06_analysis.html",
+    "href": "06_analysis.html",
+    "title": "5  Descriptive data analysis",
+    "section": "",
+    "text": "analysis"
   }
 ]
