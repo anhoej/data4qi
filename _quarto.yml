@@ -5,18 +5,23 @@ project:
 book:
   title: "Quality Improvement With Data"
   author: "Jacob Anhøj"
-  date: "`r Sys.Date()`"
+  date: last-modified
+  date-format: iso
+  page-footer: "Jacob Anhøj 2023"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
+    - 01_intro.qmd
+    - 11_chapter1.qmd
+    - 21_chapter2.qmd
+    - 91_summary.qmd
+    - 99_references.qmd
 
 bibliography: references.bib
 
 format:
   html:
     theme: cosmo
+    code-fold: true
 
 
 
